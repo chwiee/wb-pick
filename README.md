@@ -1,2 +1,21 @@
 # wb-pick
-Repo desafio PICK 2024
+
+## Regras do desafio
+
+
+## Arquitetura
+
+
+## Mapa mental da solução
+
+
+
+## Como funciona
+
+
+
+## CookieCutter
+
+
+
+## Tks
