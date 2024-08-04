@@ -16,6 +16,9 @@
     [RBAC] - Criação de SA e Roles <br>
     [CICD] - Uso de melange para o Build da container image <br>
     [CICD] - Uso de HELM para deploy da nossa aplicação <br>
+    [CICD] - Uso de Kaniko para Build do Dockerfile
+
+    [CookieCutter] - Criação de template CookieCutter para uso geral das ferramentas
   
 ## Arquitetura da Aplicação
 
